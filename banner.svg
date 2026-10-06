@@ -30,5 +30,4 @@
   <text class="dim" x="32" y="152">loading things that shouldn't ever work ... <tspan class="ok">OK</tspan></text>
   <rect class="track" x="32" y="172" width="736" height="10" rx="5"/>
   <rect class="fill" x="32" y="172" width="736" height="10" rx="5"/>
-  <text class="acc" x="32" y="206" style="font-size:13px">Tap or press any key to continue</text>
 </svg>
